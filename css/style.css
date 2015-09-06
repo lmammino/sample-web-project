@@ -215,6 +215,10 @@ th {
   padding: 0;
 }
 
+body {
+  background: #97d2fc;
+}
+
 body h1,
 body p {
   text-align: center;
